@@ -1,0 +1,29 @@
+
+
+.hero, .footer-div {
+    background-color: #0033a0 !important;
+    color: white;
+}
+
+.hero-image {
+    margin: 0px;
+}
+
+.hero-background {
+    padding-bottom: 0px;
+}
+
+.claimsform {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tablecontainer {
+    padding-top: 20px;
+}
+
+.footer-div {
+    border-top: 2px solid white;
+}
+
+
